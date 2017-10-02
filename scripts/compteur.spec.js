@@ -1,7 +1,6 @@
 describe('class Compteur', () => {
     let compteur;
     
-    
     beforeEach(() => {
         compteur = new Compteur();
     });
