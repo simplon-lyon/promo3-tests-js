@@ -1,0 +1,27 @@
+{
+  "name": "promo3-tests-js",
+  "version": "1.0.0",
+  "description": "A javascript project for learning unit and e2e testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplon-lyon/promo3-tests-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplon-lyon/promo3-tests-js/issues"
+  },
+  "homepage": "https://github.com/simplon-lyon/promo3-tests-js#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-jasmine": "^1.1.0"
+  }
+}
